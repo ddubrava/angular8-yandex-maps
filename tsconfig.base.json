@@ -16,6 +16,7 @@
     "baseUrl": ".",
     "paths": {
       "angular8-yandex-maps": ["dist/libs/angular8-yandex-maps"],
+      "angular8-yandex-maps-v3": ["dist/libs/angular8-yandex-maps-v3"],
       "docsifier": ["libs/docsifier/src/index.ts"]
     }
   },
